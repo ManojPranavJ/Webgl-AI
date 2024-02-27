@@ -1,9 +1,9 @@
 const cacheName = "XR Horizon-AI Enquiry Model-0.1";
 const contentToCache = [
     "Build/Webgl AI.loader.js",
-    "Build/Webgl AI.framework.js.br",
-    "Build/Webgl AI.data.br",
-    "Build/Webgl AI.wasm.br",
+    "Build/Webgl AI.framework.js",
+    "Build/Webgl AI.data",
+    "Build/Webgl AI.wasm",
     "TemplateData/style.css"
 
 ];
